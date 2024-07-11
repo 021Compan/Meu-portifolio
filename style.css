@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+   height: 100hv;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.topo{
+    display:flex;
+    justify-content:space-between;
+    margin: 10%;
+}
